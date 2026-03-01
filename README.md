@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Shrimi Agrawal 👋
+Welcome to my Github profile!
+🌱 I'm fourth year  chemical engineering undergrad at Indian Institute of technology,Kanpur.
 
 <!--
 **shrimi19/shrimi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
